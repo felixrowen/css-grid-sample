@@ -41,10 +41,4 @@
       ". seven eight ."
       ". nine nine .";
   }
-
-  .grid__wrapper > div {
-    width: 100%;
-    height: 100px;  
-    background-color: grey;
-  }
 }
