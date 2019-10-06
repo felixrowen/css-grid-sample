@@ -1,3 +1,9 @@
+/**
+ * @author felixrowen
+ * @email felixroo@gmail.com
+ * @create date 2019-10-06 14:54:45
+ */
+
 .grid__wrapper {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
